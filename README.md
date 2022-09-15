@@ -37,7 +37,7 @@
 
 ---
 <p align="center">
-<img src="https://github.com/faradaymahe/faradaymahe/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/faradaymahe/faradaymahe/output/github-contribution-grid-snake.svg">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=faradaymahe&pretty=true)](https://github-visitor-counter-pro.vercel.app)
