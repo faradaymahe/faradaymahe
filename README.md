@@ -3,7 +3,7 @@
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
- <a href="https://scholar.google.com/citations?user=8LYUq7oAAAAJ&hl=en" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="https://github.com/faradaymahe/CV_2022/blob/main/Mahendiran_CV.pdf" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/FaradayMahe435" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/d-mahendiran-50ab61b9/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
@@ -34,6 +34,13 @@
 [![](https://visitcount.itsvg.in/api?id=faradaymahe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/faradaymahe/faradaymahe/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=faradaymahe&pretty=true)](https://github-visitor-counter-pro.vercel.app)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/maheraj435o)
