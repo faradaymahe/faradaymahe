@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/d-mahendiran-50ab61b9/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://scholar.google.com/citations?user=8LYUq7oAAAAJ&hl=en" target="_blank"><img alt="" src="https://img.shields.io/badge/Google_Scholar-000?logo=Aer Lingus&logoColor=006272&style=for-the-badge" style="vertical-align:center" /></a>
 
-<a href="https://www.researchgate.net/profile/Mahendiran-Durairaj" target="_blank"><img alt="" src="https://img.shields.io/badge/Research_Gate-000?logo=Arduino&logoColor=00979D&style=for-the-badge" style="vertical-align:center" /></a></p> #
+<a href="https://www.researchgate.net/profile/Mahendiran-Durairaj" target="_blank"><img alt="" src="https://img.shields.io/badge/Research_Gate-000?logo=Arduino&logoColor=00979D&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 
 
