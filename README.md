@@ -6,7 +6,7 @@
 <p align="center">
  <a href="https://github.com/faradaymahe/CV_2022/blob/main/Mahendiran_CV.pdf" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/FaradayMahe435" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://scholar.google.com/citations?user=8LYUq7oAAAAJ&hl=en" target="_blank"><img alt="" src="https://img.shields.io/badge/Google%20Scholar logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://scholar.google.com/citations?user=8LYUq7oAAAAJ&hl=en" target="_blank"><img alt="" src="https://img.shields.io/badge/Google Scohlar?style=for-the-badge&logo=latex&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/d-mahendiran-50ab61b9/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 
