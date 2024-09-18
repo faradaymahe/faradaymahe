@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm D. Mahendiran </br> 
+<h1 align="center"> Hi 👋🏻, I'm Mahendiran Durairaj </br> 
 </h1>
 <p align="center">Senior Research Fellow at CSIR-Central Electrochemical Research Institute 👨‍💻</p>
 <p align="center">I love creating new things ⚡</p>
